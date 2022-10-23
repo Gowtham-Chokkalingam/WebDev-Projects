@@ -1,0 +1,12 @@
+a {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  text-align: center;
+  font-size: 34px;
+  font-family: sans-serif;
+  font-weight: 600;
+  color: #c52d2f;
+}

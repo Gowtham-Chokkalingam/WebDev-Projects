@@ -1,0 +1,35 @@
+/* a {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  text-align: center;
+  font-size: 34px;
+  font-family: sans-serif;
+  font-weight: 600;
+  color: #c52d2f;
+} */
+.card {
+  background-color: white;
+  width: 400px;
+  margin: auto;
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  border-radius: 10px;
+  padding: 20px;
+}
+.card img {
+  width: 150px;
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+}
+.card h3 {
+  margin-bottom: 0px;
+}
+.card p {
+  margin-bottom: 0px;
+}

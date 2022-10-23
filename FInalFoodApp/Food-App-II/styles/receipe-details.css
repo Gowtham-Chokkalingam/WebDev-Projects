@@ -1,0 +1,44 @@
+#container {
+  width: 70%;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: grid;
+  grid-template-columns: 30% 70%;
+  gap: 50px;
+  color: white;
+}
+.leftDiv > img {
+  width: 100%;
+}
+.ins_title {
+  margin-top: 0;
+}
+.rightDiv > p {
+  width: 100%;
+}
+.link {
+  text-decoration: none;
+  color: white;
+  font-style: italic;
+}
+.link:hover {
+  text-decoration: underline;
+}
+#r-b {
+  text-align: center;
+  margin-top: 50px;
+}
+#random-btn {
+  padding: 10px 10px;
+  font-size: 16px;
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+  border-radius: 3px;
+}
+#random-btn:hover {
+  background-color: #c52d2f;
+  cursor: pointer;
+  border: 2px solid #c52d2f;
+}

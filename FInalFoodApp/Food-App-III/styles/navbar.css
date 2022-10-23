@@ -1,0 +1,40 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+  background-color: #2d2013;
+}
+#navbar {
+  background-color: #23180d;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 70px;
+  align-items: center;
+  height: 80px;
+}
+#menus {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+#menus a {
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px;
+  border-radius: 3px;
+  border: 1px solid transparent;
+}
+#menus a:hover {
+  border: 1px solid #c52d2f;
+}
+.active-menu {
+  background-color: #c52d2f !important;
+}
+.not-active-menu {
+  background-color: transparent !important;
+}
+#logo:hover {
+  cursor: pointer;
+}

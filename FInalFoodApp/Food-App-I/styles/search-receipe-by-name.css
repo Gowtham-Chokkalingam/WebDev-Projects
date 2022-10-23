@@ -1,0 +1,55 @@
+#search {
+  text-align: center;
+  margin-top: 50px;
+}
+#search input {
+  width: 500px;
+  height: 40px;
+  padding: 0px 10px;
+  border-radius: 3px;
+  font-size: 14px;
+  border: none;
+}
+#receipes {
+  width: 90%;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  text-align: left;
+}
+.card {
+  background-color: white;
+  color: #23180d;
+  border: 4px solid transparent;
+}
+.card:hover {
+  border: 4px solid #f93f23;
+  opacity: 0.6;
+}
+.card img {
+  width: 100%;
+}
+.card img:hover {
+  width: 100%;
+}
+#receipes a {
+  text-decoration: none;
+}
+.receipe-category,
+.receipe-title {
+  padding: 0px 10px;
+}
+.receipe-title {
+  flex-wrap: wrap;
+  padding-bottom: 20px;
+  margin-top: 0px;
+}
+.receipe-category {
+  color: #f93f23;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 600;
+}
