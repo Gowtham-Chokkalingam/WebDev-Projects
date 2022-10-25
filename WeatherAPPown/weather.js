@@ -1,4 +1,3 @@
-let API_key = "055d5fb648a00f95fc9c4eefa8321217";
 
 let searchbtn = document.getElementById("searchbtn");
 searchbtn.addEventListener("click", getWeather);
