@@ -7,28 +7,10 @@
       "id": 1
     },
     {
-      "title": "Mock-5",
-      "description": "05-01-23",
-      "priority": "High",
-      "id": 2
-    },
-    {
-      "title": "Gowtham",
-      "description": "web20",
-      "priority": "Medium",
-      "id": 3
-    },
-    {
       "title": "myname",
       "description": "web20",
       "priority": "Medium",
       "id": 4
-    },
-    {
-      "title": "Gowtham C",
-      "description": "typicode",
-      "priority": "High",
-      "id": 5
     },
     {
       "title": "Gowtham",
