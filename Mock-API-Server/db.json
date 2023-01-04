@@ -1,0 +1,26 @@
+{
+  "tasks": [
+    {
+      "title": "Hacker",
+      "description": "TikTok",
+      "priority": "High",
+      "id": 1
+    },
+    {
+      "title": "Gowtham",
+      "description": "web20",
+      "priority": "Medium",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
